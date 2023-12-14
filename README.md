@@ -1,11 +1,11 @@
 <div align="center"> 
 
-  ![header](https://capsule-render.vercel.app/api?type=Rounded&color=00001f&height=150&section=header&text=kim_junki&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+  ![header](https://capsule-render.vercel.app/api?type=Rounded&color=00001f&height=150&section=header&text=kim_junki&fontColor=9999a5&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 ### 👋 Hi there
 #### Welcome to the junki's repository
 
-<br/>
+<br /> <br/>
 
 ### 💻 my skills
 
@@ -26,5 +26,10 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white">
 
+<br /> <br />
+
+### 🧸 Ongoing projects
+
+#### **Technical Documents [GitHub Repository](https://github.com/junki-dev/tech-docs-api)** 
 
 </div>
