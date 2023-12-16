@@ -32,6 +32,5 @@
 
 #### **Technical Documents API [GitHub Repository](https://github.com/junki-dev/tech-docs-api)** 
 #### **Technical Documents WEB [GitHub Repository](https://github.com/junki-dev/tech-docs-web)** 
-#### **Technical Documents K8S [GitHub Repository](https://github.com/junki-dev/tech-docs-k8s)**
 
 </div>
