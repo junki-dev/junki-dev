@@ -30,7 +30,7 @@
 
 ### 🧸 Ongoing projects
 
-#### **Technical Documents API [GitHub Repository](https://github.com/junki-dev/tech-docs-api)** 
+#### **Technical Documents API [GitHub Repository](https://github.com/junki-dev/tech-docs)** 
 #### **Technical Documents WEB [GitHub Repository](https://github.com/junki-dev/tech-docs-web)** 
 
 </div>
