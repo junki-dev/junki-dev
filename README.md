@@ -29,7 +29,7 @@
 <br /> <br />
 
 ### 🧸 Ongoing projects
-
+#### **Technical Documents DOC [Notion](https://fuschia-salt-be2.notion.site/tech-docs-bab0d6f1b22e4328a7aae0e352f264a6?pvs=4)** 
 #### **Technical Documents API [GitHub Repository](https://github.com/junki-dev/tech-docs)** 
 #### **Technical Documents WEB [GitHub Repository](https://github.com/junki-dev/tech-docs-web)** 
 
